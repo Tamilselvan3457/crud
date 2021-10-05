@@ -1,0 +1,16 @@
+{
+    "posts": [
+      { "id":1, 
+        "Name": "json-server",
+         "Role": "typicode" },
+      { "id": 2,
+         "Name": "selvan",
+          "Role":"fastcode" },
+      {
+        "id":3,
+        "Name":"Tamilselvan",
+        "Role":"goodsolver"
+       
+      }  
+        ]
+  }
